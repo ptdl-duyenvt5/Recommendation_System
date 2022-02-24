@@ -14,7 +14,7 @@ def chonE(phi):
         i=randint(2,phi)
     return i
 def nghichDao(a,b):
-    if b<a:
+    if b<a:ahgdghehejiifr
         l=a
         a=b
         b=l
